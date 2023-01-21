@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.store</groupId>
-	<artifactId>store</artifactId>
+	<artifactId>store-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>store</name>
+	<name>store-config-server</name>
 	<description>Config server for the store app</description>
 	<properties>
 		<java.version>17</java.version>
